@@ -1,7 +1,4 @@
-Here’s a professional introduction for your GitHub special repository `Pranto-Paul077/Pranto-Paul077`:
-
----
-
+ 
 # 👋 Hi there! I'm Pranto Paul
 
 Welcome to my GitHub profile!
@@ -25,7 +22,6 @@ Welcome to my GitHub profile!
 
 ---
 
-If you want, I can add badges, stats, or project highlights too.
 
 <!---
 Pranto-Paul077/Pranto-Paul077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
