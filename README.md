@@ -1,29 +1,34 @@
- 
-# 👋 Hi there! I'm Pranto Paul
+👋 Hi there! I'm Pranto Paul
 
 Welcome to my GitHub profile!
 
-* 🎯 **About Me:**
-  I’m a passionate programmer with a keen interest in **Competitive Programming**, **C++**, **Java**, **Flutter App Development**, **Web Development (HTML, CSS)**, and modern **Git/GitHub workflows**.
+🎯 About Me:
 
-* 📚 **Currently Learning:**
-  Exploring advanced programming concepts, building robust web applications, cross-platform mobile apps with **Flutter**, and contributing to open-source projects.
+I’m a passionate software developer focused on building scalable and efficient applications using the .NET ecosystem. I enjoy solving real-world problems through clean architecture, backend development, and modern development practices.
 
-* 🤝 **Open to Collaborate On:**
+💻 Tech Stack:
+Backend: C#, ASP.NET Core, Web API
+Frontend: HTML, CSS, Angular
+Database: MySQL, SQL Server
+Tools & Practices: Git, GitHub, REST APIs, OOP, MVC Architecture
+📚 Currently Learning:
+Advanced ASP.NET Core development
+Building full-stack applications with .NET + Angular
+System design and backend optimization
+Clean Architecture & Design Patterns
+🚀 Projects & Interests:
+Full-stack web applications using .NET
+RESTful API development
+Database-driven systems
+Problem solving & Competitive Programming (C++)
+🤝 Open to Collaborate On:
+.NET Web API projects
+Full-stack (.NET + Angular) applications
+Open-source contributions
+📫 Reach Me At:
 
-  * Competitive programming challenges
-  * Open-source contributions
-  * Web and mobile app development projects
+📧 paulpranto77@gmail.com
 
-* 📫 **Reach Me At:** [paulpranto77@gmail.com](mailto:paulpranto77@gmail.com)
+⚡ Fun Fact:
 
-* ⚡ **Fun Fact:**
-  I thrive on solving complex problems and love staying updated with emerging tech trends!
-
----
-
-
-<!---
-Pranto-Paul077/Pranto-Paul077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy turning complex backend logic into simple, scalable solutions 🚀
